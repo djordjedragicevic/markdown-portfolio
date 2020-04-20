@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am **the best** softwere developer on the world. My _mother_ language is *__Java__*, but I know many other languages
